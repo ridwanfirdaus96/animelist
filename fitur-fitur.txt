@@ -1,0 +1,41 @@
+ANIMELIST PROJECT:
+
+Sesi 2
+1. enhancement component reusability
+2. (feature) search input
+3. tugas besar
+- buat search inputnya menjadi bisa di enter pake keyboard tanpa merubah fungsi sebelumnya
+
+sesi 3
+1. fix tugas besar di sesi sebelumnya.
+2. simple theming UI color pallete:
+3. halaman not found.
+4. loading halaman.
+
+sesi 4
+1. fix tugas kecil di sesi sebelumnya (validasi search input length)
+2. fix other minor issues
+3. feature: lihat semua + pagination
+
+sesi 5
+1. fix tugas kecil di sesi sebelumnya (validasi pagination)
+2. reusable api call
+3. detail anime + youtube trailer video
+
+sesi 6
+1. fix some issues.
+2. fitur rekomendasi anime
+3. tugas besar:
+- buat logic untuk memunculkan list rekomendasi anime yang berbeda setiap kali halaman di buka
+
+sesi 7
+1. kerjain tugas sesi 6 (randomize anime data)
+2. fix minor issue di fitur pencarian (spasi bisa di enter di pencarian anime)
+
+sesi 8
+1. Next Auth (User Login With Github)
+2. Tugas validasi routing dashboard User
+
+sesi 9
+1. Kerjakan tugas sesi 8 (validasi route user)
+2. UI dashboard anime collection
